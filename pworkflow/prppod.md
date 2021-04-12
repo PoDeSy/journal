@@ -1,0 +1,1 @@
+- [ ] +podesy podcast bookmarking and follow ups. Might tie into headset voice memos

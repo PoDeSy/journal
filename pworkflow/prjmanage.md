@@ -1,0 +1,1 @@
+- [ ] +podesy write prjmanage.md

@@ -1,0 +1,1 @@
+- [ ] +podesy list and describe physical and digital tools I use in my design process.
